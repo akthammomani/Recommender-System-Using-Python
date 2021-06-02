@@ -11,9 +11,7 @@ In a very general way, Recommendation systems are algorithms program to present 
 
 There are mainly Three types of recommendation engines:
 
-Collaborative filtering.
-Content based Filtering.
-Hybrid (Combination of Collaborative and Content based Filtering).
-In this project we'll be working to build a Recommender Engine based on Collaborative Filtering method.
+ * Collaborative filtering.
+ * Content based Filtering.
+ * Hybrid (Combination of Collaborative and Content based Filtering).
 
-Collaborative filtering Method for recommendation systems is focused entirely on previous experiences documented between users and items in order to generate new recommendations. These interactions are contained in what's called a user item interaction matrix.
