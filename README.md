@@ -3,7 +3,7 @@
 ![Capture](https://user-images.githubusercontent.com/67468718/120515663-5fc7e500-c383-11eb-9286-a1dcbbf509fc.JPG)
 
 <p align="center">
-  <img width="660" height="500" src="https://user-images.githubusercontent.com/67468718/120515663-5fc7e500-c383-11eb-9286-a1dcbbf509fc.JPG">
+  <img width="800" height="500" src="https://user-images.githubusercontent.com/67468718/120515663-5fc7e500-c383-11eb-9286-a1dcbbf509fc.JPG">
 </p>
 
 
